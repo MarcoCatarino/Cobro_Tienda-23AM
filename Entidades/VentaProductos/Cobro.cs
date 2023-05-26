@@ -25,6 +25,7 @@ namespace Actividad_02.Entidades.VentaProductos
             {
                 Console.WriteLine("El precio total de tus compras son: $" + precioCombinado);
 
+                Console.WriteLine("Este es un ejemplo de agregar cambios en git");
             }
             else if (precioCombinado >= 5000 && precioCombinado <=7999)
             {
